@@ -20,13 +20,13 @@
 #define ESP32
 
 // Pin configuration
-#define V1 34
-#define V2 34
-#define V3 34
+#define V1 35
+#define V2 35
+#define V3 35
 
-#define I1 35
-#define I2 32
-#define I3 33
+#define I1 34
+#define I2 34
+#define I3 34
 
 // Calibration settings (allways start with 1000)
 #define CV1 1000
